@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; }
+.search-container { margin: 20px; }
+#searchBox { padding: 10px; margin-right: 5px; }
+#searchBtn { padding: 10px; }
+.response-container { margin-top: 20px; padding: 20px; border: 1px solid #ddd; }
